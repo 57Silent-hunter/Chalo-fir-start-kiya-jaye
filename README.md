@@ -1,2 +1,3 @@
 # Chalo-fir-start-kiya-jaye
-i am learning from zero
+I am learning from zero
+Author-Atanu Byapari
